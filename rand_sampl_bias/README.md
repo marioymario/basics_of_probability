@@ -39,7 +39,7 @@ For example, imagine a bag of ten sox, with five blue and five red. Without look
 
 # Bayes's rule and conditional probability
 
- When we read in the news that the a test is 99% accurate. It's not the probability that you are infected with corona virus. It's the probability that you're infected given the condition that you get a positive corona test.
+ When we read in the news that a test is 99% accurate. It's not the probability that you are infected with a virus. It's the probability that you're infected given the condition that you get a positive corona test.
  
  1. Bayes's rule
     - probability of A given B equals the probability of B given A, times the probability of A, divided by the probability of B
